@@ -1,7 +1,7 @@
 ```
 - 👋 Hi, I’m @Egbertjing                                                     ░█████╗░██╗
 - 👀 I’m interested in AI field.                                             ██╔══██╗██║
-- 🌱 I’m currently MPhil on HKUST.                                           ███████║██║
+- 🌱 I’m currently a PhD student at HKUST and a researcher at Modeio.ai.     ███████║██║
 - 📫 Reach me at hjingaa@connect.ust.hk.                                     ██╔══██║██║
 - 💻 My personal website: egbertjing.github.io                               ██║░░██║██║
 - 😊 Want to work together with you!!!                                       ╚═╝░░╚═╝╚═╝
